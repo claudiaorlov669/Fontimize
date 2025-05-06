@@ -1,0 +1,5 @@
+[project]
+name = "fontimize"
+version = "0.1.0"
+description = "Fontimize: optimize fonts to only the specific glyphs needed for your text and website"
+requires-python = ">=3.10"
